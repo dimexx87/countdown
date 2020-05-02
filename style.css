@@ -91,12 +91,19 @@ body {
 .phrase {
   font-style: italic;
   font-weight: normal;
-  margin-top: 12px;
+  margin-top: 5px;
   text-align: center;
   opacity: 0.5;
   font-size: 12px;
 }
 
+
+
 .clock1 {
   margin-top: 50px;
+}
+
+.phrases {
+  display: flex;
+  justify-content: space-between;
 }
